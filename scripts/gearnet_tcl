@@ -1,0 +1,8 @@
+nohup python gearnet_main.py \
+       --arch resnet50 --alg gearnet_tcl\
+       --lr 0.003 --noise_level 0.4 \
+       --Dataset office31 --SourceDataset dslr --TargetDataset webcam \
+       --gpu 0 --epochs 200 --bottleneck 256 \
+       --batch_size_source 32  --batch_size_target 32 \
+       --noise_type unif --startiter 100\
+       > log/gearnet_tcl_noise04_unif_DW.log &
