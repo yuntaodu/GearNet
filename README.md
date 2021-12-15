@@ -2,9 +2,11 @@
  AAAI 2022: GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation. (Pytorch implementation)
 ## Dataset
 Office-31 dataset and Office-Home dataset which could be downloaded [here](https://drive.google.com/drive/folders/1WIo7DIuErJoPpyedfA7V9eaD-D2emzGm?usp=sharing).
-## Requirements
+## Notes
+This code is run under the following environment:
 * Python 3.8.3
 * PyTorch 1.6.0
+
 ## Taining
 All the commands are shown in `scripts` files.
 
