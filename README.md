@@ -7,7 +7,7 @@ This code is run under the following environment:
 * Python 3.8.3
 * PyTorch 1.6.0
 
-## Taining
+## Training
 All the commands are shown in `scripts` files.
 
 ## Citation
