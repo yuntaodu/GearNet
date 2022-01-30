@@ -13,11 +13,11 @@ All the commands are shown in `scripts` files.
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@inproceedings{xier2022gearnet,
+@article{xie2022gearnet,
   title={GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation},
   author={Xie, Renchunzi and Wei, Hongxin and Feng, Lei and An, Bo},
-  year={2022},
-  organization={AAAI}
+  journal={arXiv preprint arXiv:2201.06001},
+  year={2022}
 }
 ```
 
